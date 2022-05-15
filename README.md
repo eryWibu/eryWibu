@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://youtube.com/channel/UC0b8UgFl_6VzK7bmUa7XRag
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/UC0b8UgFl_6VzK7bmUa7XRag" height="30" width="40" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zuck-Ker) <a href="https://github.com/Zuck-Ker"></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zuck-Ker) <a href="https://github.com/eryWibu"></a>
 
 </p>
 
